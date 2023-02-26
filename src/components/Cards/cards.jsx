@@ -7,7 +7,7 @@ const Cards = () => {
 
 <section class="padre">
     <div class="card">
-        <img src="../images/Ford-Focus.jpg" alt="Automovil" class="cardImage">
+        <img src="../images/Ford-Focus.jpg" alt="Automovil" class="cardImage"/>
             <div class="card-info">
                 <ul class="cardData">
                     <li>
@@ -25,7 +25,7 @@ const Cards = () => {
     </div>
     
     <div class="card">
-            <img src="../images/Peugeot-408.jpg" alt="Automovil" class="cardImage">
+            <img src="../images/Peugeot-408.jpg" alt="Automovil" class="cardImage"/>
         <div class="card-info">
             <ul class="cardData">
                 <li>
@@ -44,7 +44,7 @@ const Cards = () => {
     </div>
     
     <div class="card">
-            <img src="../images/Volkswaguen-Vento" alt="Automovil" class="cardImage">
+            <img src="../images/Volkswaguen-Vento" alt="Automovil" class="cardImage"/>
         <div class="card-info">
             <ul class="cardData">
                 <li>
@@ -61,7 +61,7 @@ const Cards = () => {
         </div>
         </div>
     <div class="card">
-                <img src="../images/Honda-Civic" alt="Automovil" class="cardImage">
+                <img src="../images/Honda-Civic" alt="Automovil" class="cardImage"/>
             <div class="card-info">
                 <ul class="cardData">
                     <li>
